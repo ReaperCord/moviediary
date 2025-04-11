@@ -68,8 +68,8 @@ A documentação da API REST será gerada automaticamente com Swagger/OpenAPI na
 
 - [x] CRUD de Categorias
 - [x] CRUD de Streamings
-- [ ] CRUD de Filmes (em desenvolvimento)
-- [ ] Relacionamentos entre entidades
+- [ ] CRUD de Filmes (em desenvolvimento) (1/2)
+- [x] Relacionamentos entre entidades
 - [ ] Autenticação JWT (planejado)
 - [ ] Frontend Angular (em desenvolvimento)
 - [ ] Deploy (Render / Railway)
